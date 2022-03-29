@@ -1,16 +1,81 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="CartoonNetwork" tvg-id="CartoonNetwork.es" tvg-name="Cartoon Network" tvg-country=ES" group-title="Infantil" tvg-logo="https://www.seekpng.com/png/detail/182-1826243_cartoon-network-logo-transparent-png-stickpng-clipart-dibujos.png", Cartoon Network
-https://edge2.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork-avc1_1344000=10001-mp4a_144800_spa=20000.m3u8
+#EXTINF:-1 tvg-chno="Infantil" tvg-id="Infantil.es" tvg-name="Infantil" tvg-country=ES" group-title="Infantil" tvg-logo="https://sergiojamon.com/wp-content/uploads/2020/12/nickclasico.jpg", Nick Clasico
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5ddd7c348520b40009c347e2/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ae26dfbb-e448-40bc-bbfd-b34c7f53cf9a&deviceVersion=99.0.4844&appVersion=5.109.0-6577a51c82bdba0d9a0a2bab4950dd43d469ea83&deviceType=web&deviceMake=chrome&sid=5b40e057-af69-11ec-b4ac-0242ac110003&advertisingId=&deviceLat=32.6278&deviceLon=-115.4545&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlYzc0M2E4LTRjNTQtNDYwMy1iMjNkLTZhMDlmZGQxYjZjNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1YjQwZTA1Ny1hZjY5LTExZWMtYjRhYy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjIwMS4xNzQuMTA5LjE5MCIsImNpdHkiOiJNZXhpY2FsaSIsInBvc3RhbENvZGUiOiIyMTM5NiIsImNvdW50cnkiOiJNWCIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOjMyLjYyNzgsImRldmljZUxvbiI6LTExNS40NTQ1LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5OS4wLjQ4NDQiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjUuMTA5LjAtNjU3N2E1MWM4MmJkYmEwZDlhMGEyYmFiNDk1MGRkNDNkNDY5ZWE4MyIsImNsaWVudElEIjoiYWUyNmRmYmItZTQ0OC00MGJjLWJiZmQtYjM0YzdmNTNjZjlhIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvVGlqdWFuYSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NDg1OTE1NTcsImp0aSI6Ijk3N2MxOGNiLTkyMzUtNDBhNS04ZTE1LTg1NGI1ODFlNDgzZiIsImlhdCI6MTY0ODU2Mjc1NywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOllXVXlObVJtWW1JdFpUUTBPQzAwTUdKakxXSmlabVF0WWpNMFl6ZG1OVE5qWmpsaCJ9.4cy16hJ5fQpnB1YW2swOyvR3AQzH7WzP0BE73m2e7y0
 
-#EXTINF:-1 tvg-chno="Canal 5" tvg-id="Canal5.es" tvg-name="Canal 5" tvg-country=ES" group-title="Infantil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es", Canal 5
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CusEVyWgp7zVtPh3e1k51F3sZhWNL8Unqt0f3BWqBXqeWNZ2dtuFtdeJFWSw4FieQvKz3DLbdvwue2tavahKDRbmNzQd3XYK3hv8hFuMST1LyruZIuFyzBv8hUpBKWsnz-VkYAZfoVUcDug15H1L2BqGyO8I_PalAE3574vRzUxIIsQkFWv4iHkcea95pDtqzlyktLwC11PWFBSlF6hXCDEtfXxFHKmhs8MAoxIyUQkc1fj0C2nr8HEzhPJWDwJiqCDu0DmaZL_L2XZ0hGc9teJZ2NNOwXWAOCyNJkfqEIY7sB1kDM-wb074rJ-dy1zdfRB_B12_Xv8L-xvDmHGIhyFZhretg85sHUdN_NCVH-cZMJwrSZLljHI91JkGOm3V2bIhjjXBkJeB94WtCSTSBYIYP2pxKjHMx1YOmIsitHZkIphrbl2FK8rrPPXIpY405oYosf614dYTZbRIh8PfHjqSrLg0bnhU4L2RdXhKNLy4s0f3Sa5DEdwPzQ7pPw_GsIXNGJal8aQFlxMaemUKd9UkWZnQSckuE-Mee0QZSyFkyM8UoQdk234e6iIt5QPT5UUxx747QVxmBLowrS2SVyjPmvXH98uzPYFI9CR7vdev3lrs4m5c3XH2P_rnqGRvkdgU924P62pFYOf7xMK1xrPoSb4D2-nARiX1PbnE3M3eInACzwnsE1OTOitx_sMQAJwRp_iqyJr4Wn0mwQ5RIt6KomHLOsEdqLtQUNMLxL-0eN2eOtT3IseZrTZUTt3ZfwBi_9RSIEUEI9lePvzihPgyHsZeON_70IRL49mQ5rXvFXK_XA6P6zfC8ELKoxoMyLJ1aWnOdfOH4nWFIAEqCWV1LXdlc3QtMjCpAw.m3u8
+#EXTINF:-1 tvg-chno="Canal 5" tvg-id="Canal5.es" tvg-name="Canal 5" tvg-country=ES" group-title="Tv Abierta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es", Canal 5
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpEFDngdPF0X5KEcsrjWYqvnzfxitpNh2ds36X1stOo0mEzG5TiLZ8iKmRmthcXsyv4_o4YUp0H7JA5qXv6K3w_ojrOntm5k_M_ylH6-yaptJ2IZaTOqvYctcUeu85CzsfKR9Q8nUnJrsOXb5XhbV_IRn3c202DBe3JUS6g42sgq9vGw-G6gWioeWvFQOV5D2G0H0z6RqM621L4u79QOJlsnmFSGOM4P2UKtRCOgyRiUj_69V3Qxt45Fiji53NrKBaPcvsDhEdVPKU71LbHETOcDED7EnBLFvY7FNHjNqGezcUXVpLJoMzz9asXAu0_80jeBIcjw8LJwnNPPsk-IN2kfzSjlK36nXcHNdeHPisAFuU8oCgqoUgfbsO3-A-XhKXsoGWbK4YgD8mJio7UcbM_p9RDJJMYiX4iK908RkBWwSd-IiuX9JP854M416nbbDydfPqyFSl5VzogAQKJ0xb49QI2geDG830QuTL2AplcgQ4TAAy9Xtna7NjQ593J3EzXTIRAHkmvn41JKVafiDbndquZzXYvI5dLixanlHgmUCbSXpNWTU7YI5yOnKJUPdF_xn94r1AbsvriB1AIoMj2auXLoALNgT6flfjGyX8UFZ2OFyy6Q_auzCpyDvznt_17SDFkN91DBaWUpkhIc7L_8iQ2mmo1-xOGmU1HiJx1uJuks-zXWhKiAxtX3OpbWxMIr97kJ7vxQbPM1sT8ttzfUH37DIj8L0mPpjKWHshN06vSdO_XLR1HNdZg6sM5EnTh7lr89J4lGR4NjqCNRkyBWRlBDkwJtp5eyM3pGg98fBoAVlZOLTLG6FKFKm6wSX-V0vuLriKDcY_vPA_53t1xAx_kBe-ZmHTs3KVCDoR517_lOGgzV3TBRwe6N422wJjAgASoJZXUtd2VzdC0yMKwD.m3u8
 
 
-#EXTINF:-1 tvg-chno="24/7" tvg-id="24/7.es" tvg-name="24/7" tvg-country=ES" group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/61w4L7FZNTL._AC_SX466_.jpg", Pocoyo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1648260134/ei/xR8-YqezPMWbkwaLnZS4DA/ip/201.174.109.190/id/uuXIghurUp4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC-Lgq59h6eyNV-daET9JQWpY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMOX6xy85T6xWbpfpW-W9IVHKhttWLI_l6SPIIcYWRGcCIB8FGcMaeU2h91c8bW8O-RS2yBSlZws-z8f1F-uQ2994/file/index.m3u8
 
+#EXTINF:-1 tvg-chno="Infantil" tvg-id="Infantil.es" tvg-name="Infantil" tvg-country=ES" group-title="Infantil" tvg-logo="https://lh3.googleusercontent.com/MAi_xiVzhCrwxUmSwxJ-jt158bZOSXdLGdSaAQIabMuNNQuB8fjFR6V9ehqjH4xQnBhfSEA=s85", Latino Kids
+https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w1638621016.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="24/7 Infantil" tvg-id="24/7Infantil.es" tvg-name="24/7 Infantil" tvg-country=ES" group-title="24/7 Infantil" tvg-logo="https://m.media-amazon.com/images/I/61w4L7FZNTL._AC_SX466_.jpg", Pocoyo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1648331511/ei/lzY_YpbnJ8-AsfIP0tCs4AI/ip/201.174.109.190/id/uuXIghurUp4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC2b5ocE4n92uzypvv_QmnUIC/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIcNsmHvhx7P_r0rDnH_uc5j00DJPnfA9DlE0bNSL3RyAiB0l0Aa3Kwt-ZqpnTHSGZzNMqJ8yPbKhI5hL5gwRd2uBA%3D%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="IAFCJ Dtto SLRC" tvg-id="IAFCJDttoSLRC.es" tvg-name="IAFCJ Dtto SLRC" tvg-country=ES" group-title="Religion" tvg-logo="https://scontent.fcxl2-1.fna.fbcdn.net/v/t1.6435-9/39558046_1896429863984464_5700689755310653440_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGEtQo7uGY3IBz74dclXT0PGxEkc0HYpkMbESRzQdimQ1cXdzlrjezd4iftk_R3DTtdo15TECZlCtWAiIv3lB7P&_nc_ohc=fTLexi239UYAX_su5o7&_nc_ht=scontent.fcxl2-1.fna&oh=00_AT-_iuqFdgBByUN7deClvvv_ud0D_q3idABeBxGHDZMkAA&oe=6262C765", IAFCJ Dtto SLRC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1648268556/ei/rEA-YvqIFYqukwaxpIvACQ/ip/2806%3A2f0%3A1060%3A3606%3A4cb2%3A59ab%3Af1ee%3A2f9/id/tkMdKY107P4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_8GQDfC-SCXx7A7R_YSNvGu/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgdMjOzKs1kB4fbei7x4Z4h_E_vkspgM80VRfZcVs92GgCIEOGOFwknJOmRAVIlQ7_hRdMjz97YBzh47xNV8Tn21tw/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1648284612/ei/ZH8-YuXBDNSUkwbn9pKoAQ/ip/2806%3A2f0%3A1060%3A3606%3A8df8%3A82f7%3A76dd%3A58c0/id/-D8H_5t546w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC4aSwQZxx89LedftijqrYdz1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgE2ux9_qwe4maqRRH5zF5MtY2TTeRMrSHKP1RR2uHw2sCIHW8LCevTlYEdoE8GMXF6Ul_vV57qQaG-3Tc4r7aLvpk/file/index.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="HBO" tvg-id="HBO.es" tvg-name="HBO" tvg-country=ES" group-title="Peliculas" tvg-logo="https://storage.googleapis.com/www-paredro-com/uploads/2019/05/%E2%96%B7-%C2%BFSabes-que%CC%81-significa-HBO-Su-primer-logo-lo-deci%CC%81a.jpg", HBO
+https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD-avc1_1972000=10002-mp4a_144800_spa=20001.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="HBO2" tvg-id="HBO2.es" tvg-name="HBO2" tvg-country=ES" group-title="Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO2
+https://edge2.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2-avc1_1480000=10002-mp4a_144800_spa=20000.m3u8
+
+
+#EXTINF:-1 tvg-chno="Canal 66" tvg-id="Canal66.es" tvg-name="Canal66" tvg-country=ES" group-title="Noticias" tvg-logo="https://canal66.tv/wp-content/uploads/2021/09/DP-fb-Canal-66.jpg", Canal 66
+https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w522899137_b878000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIyIDQ6MDQ6MDQgUE0maGFzaF92YWx1ZT1JSDJHUnpHeXhtNi9kdFVjVGNOd1BBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+
+
+
+
+#EXTINF:-1 tvg-chno="24/7 Peliculas" tvg-id="24/7Peliculas.es" tvg-name="24/7 Peliculas" tvg-country=ES" group-title="24/7 Peliculas" tvg-logo="https://lh3.googleusercontent.com/e9bDbWO9SbNvrPIWwB8WSXwfzSAQOSgoya9JiYhA3bSi6rZ-jqaKtrk1Z1OUZjBt1MfV=s200", 24/7 Peliculas
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w696360603.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="24/7 Infantil" tvg-id="24/7Infantil.es" tvg-name="24/7 Infantil" tvg-country=ES" group-title="24/7 Infantil" tvg-logo="https://www.elsoldepuebla.com.mx/gossip/uly4vz-en-centro-de-seguridad-de-bajo-nivel-en-el-que-trabaja-homero-simpson-en-la-planta-de-energia-nuclear-de-springfield-se-puede-ver-una-placa-con-la-frase-en-ingles-do-it-for-her.jpg/ALTERNATES/LANDSCAPE_1140/En%20centro%20de%20seguridad%20de%20bajo%20nivel%20en%20el%20que%20trabaja%20Homero%20Simpson%20en%20la%20planta%20de%20energ%C3%ADa%20nuclear%20de%20Springfield%20se%20puede%20ver%20una%20placa%20con%20la%20frase%20en%20ingl%C3%A9s%20%E2%80%9CDo%20It%20For%20Her%E2%80%9D.jpg", Los Simpson
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/chunklist_w251856657.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="24/7 Infantil" tvg-id="24/7Infantil.es" tvg-name="24/7 Infantil" tvg-country=ES" group-title="24/7 Infantil" tvg-logo="https://i.pinimg.com/236x/8a/0f/d3/8a0fd3c4844e4e3c583d81e55e438e2c.jpg", Pistas de Blue
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f9996533c9de3000759ccb5/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ae26dfbb-e448-40bc-bbfd-b34c7f53cf9a&deviceVersion=99.0.4844&appVersion=5.109.0-6577a51c82bdba0d9a0a2bab4950dd43d469ea83&deviceType=web&deviceMake=chrome&sid=e4d1cfac-af11-11ec-a147-0242ac110003&advertisingId=&deviceLat=32.6278&deviceLon=-115.4545&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlYzc0M2E4LTRjNTQtNDYwMy1iMjNkLTZhMDlmZGQxYjZjNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlNGQxY2ZhYy1hZjExLTExZWMtYTE0Ny0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDY6MmYwOjEwNjA6MzYwNjpmNTkwOjY3ODY6MmE1Mzo1YTFjIiwiY2l0eSI6Ik1leGljYWxpIiwicG9zdGFsQ29kZSI6IjIxMzk2IiwiY291bnRyeSI6Ik1YIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6MzIuNjI3OCwiZGV2aWNlTG9uIjotMTE1LjQ1NDUsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6Ijk5LjAuNDg0NCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNS4xMDkuMC02NTc3YTUxYzgyYmRiYTBkOWEwYTJiYWI0OTUwZGQ0M2Q0NjllYTgzIiwiY2xpZW50SUQiOiJhZTI2ZGZiYi1lNDQ4LTQwYmMtYmJmZC1iMzRjN2Y1M2NmOWEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9UaWp1YW5hIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0ODU1Mzk5MiwianRpIjoiMWUxYzJkMzctNTA5Mi00YjgxLWI4ZGYtNzVjZjJjNDMwNGZjIiwiaWF0IjoxNjQ4NTI1MTkyLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WVdVeU5tUm1ZbUl0WlRRME9DMDBNR0pqTFdKaVptUXRZak0wWXpkbU5UTmpaamxoIn0.KAbFjQavLGbnkF77wkgrdlseFh0Uh3wJbERooB8hhns
+
+
+
+#EXTINF:-1 tvg-chno="Peliculas" tvg-id="Peliculas.es" tvg-name="Peliculas" tvg-country=ES" group-title="Peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/11/13/17/42/3108657.jpg", Sargento Stubby
+https://manifest.production-public.tubi.io/905fd554-34d3-445d-ae20-22bf807b7cc3/091jlcx3/stream.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjZG5fcHJlZml4IjoiaHR0cHM6Ly9jbG91ZGZyb250LnR1YmkudmlkZW8iLCJjb3VudHJ5IjoiTVgiLCJkZXZpY2VfaWQiOiJlNjE1Yzg0Ni1hNWM2LTRmODMtYWQ3YS03OTljYTczZjZmNDgiLCJleHAiOjE2NDg3ODI5MDAsInBsYXRmb3JtIjoiV0VCIiwidXNlcl9pZCI6MH0.D6ZVWp3fE4rlcapoXqa-vfnLheAnWCaI9F9PlK_rc7g&manifest=true
+
+
+
+
+#EXTINF:-1 tvg-chno="24/7 Infantil" tvg-id="24/7Infantil.es" tvg-name="24/7 Infantil" tvg-country=ES" group-title="24/7 Infantil" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/Rugrats-Logo.jpg", Rugrats 
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5ea7215005d66d0007e8128a/2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ae26dfbb-e448-40bc-bbfd-b34c7f53cf9a&deviceVersion=99.0.4844&appVersion=5.109.0-6577a51c82bdba0d9a0a2bab4950dd43d469ea83&deviceType=web&deviceMake=chrome&sid=5e98f0b0-af09-11ec-9dba-0242ac110003&advertisingId=&deviceLat=32.6278&deviceLon=-115.4545&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlYzc0M2E4LTRjNTQtNDYwMy1iMjNkLTZhMDlmZGQxYjZjNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1ZTk4ZjBiMC1hZjA5LTExZWMtOWRiYS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDY6MmYwOjEwNjA6MzYwNjpmNTkwOjY3ODY6MmE1Mzo1YTFjIiwiY2l0eSI6Ik1leGljYWxpIiwicG9zdGFsQ29kZSI6IjIxMzk2IiwiY291bnRyeSI6Ik1YIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6MzIuNjI3OCwiZGV2aWNlTG9uIjotMTE1LjQ1NDUsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6Ijk5LjAuNDg0NCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNS4xMDkuMC02NTc3YTUxYzgyYmRiYTBkOWEwYTJiYWI0OTUwZGQ0M2Q0NjllYTgzIiwiY2xpZW50SUQiOiJhZTI2ZGZiYi1lNDQ4LTQwYmMtYmJmZC1iMzRjN2Y1M2NmOWEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9UaWp1YW5hIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0ODU1MDMzMSwianRpIjoiMDBmYTdlMjgtMWY3ZC00YjVkLWIxZGItMDU3OGQ2NmI5OTgwIiwiaWF0IjoxNjQ4NTIxNTMxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WVdVeU5tUm1ZbUl0WlRRME9DMDBNR0pqTFdKaVptUXRZak0wWXpkbU5UTmpaamxoIn0.IiiMgpZ1kwW8L3Ff35QK0bloLcpxRmGtNT1hZalElm4
+
+
+
+
+
+
+
+
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5ddd7c348520b40009c347e2/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ae26dfbb-e448-40bc-bbfd-b34c7f53cf9a&deviceVersion=99.0.4844&appVersion=5.109.0-6577a51c82bdba0d9a0a2bab4950dd43d469ea83&deviceType=web&deviceMake=chrome&sid=ca0ab72c-af12-11ec-8d57-0242ac110003&advertisingId=&deviceLat=32.6278&deviceLon=-115.4545&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlYzc0M2E4LTRjNTQtNDYwMy1iMjNkLTZhMDlmZGQxYjZjNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjYTBhYjcyYy1hZjEyLTExZWMtOGQ1Ny0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDY6MmYwOjEwNjA6MzYwNjpmNTkwOjY3ODY6MmE1Mzo1YTFjIiwiY2l0eSI6Ik1leGljYWxpIiwicG9zdGFsQ29kZSI6IjIxMzk2IiwiY291bnRyeSI6Ik1YIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6MzIuNjI3OCwiZGV2aWNlTG9uIjotMTE1LjQ1NDUsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6Ijk5LjAuNDg0NCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNS4xMDkuMC02NTc3YTUxYzgyYmRiYTBkOWEwYTJiYWI0OTUwZGQ0M2Q0NjllYTgzIiwiY2xpZW50SUQiOiJhZTI2ZGZiYi1lNDQ4LTQwYmMtYmJmZC1iMzRjN2Y1M2NmOWEiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9UaWp1YW5hIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0ODU1NDM3NywianRpIjoiZmZmYjAyOWMtMzVjYy00Nzk3LWJjMTAtZGFiYWUzNTFjOTE0IiwiaWF0IjoxNjQ4NTI1NTc3LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6WVdVeU5tUm1ZbUl0WlRRME9DMDBNR0pqTFdKaVptUXRZak0wWXpkbU5UTmpaamxoIn0.BM1oMGaPuFj5fCMoUW1kHT4V52kjjnk8rbjyqYkEdHs
+
+
+
+
+
+
+
+
+
